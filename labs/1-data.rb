@@ -11,7 +11,7 @@
 # as well.
 
 DICE1 = rand(1..6)
-dice2 = rand(1..6)
+DICE2 = rand(1..6)
 puts DICE1
 puts DICE2 
 puts DICE1 + DICE2
